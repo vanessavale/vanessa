@@ -1,1 +1,4 @@
 # vanessa
+abcdefghijklmnoprstuvwzxy
+1234567890
+vanessa vale kostadinova
