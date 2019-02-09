@@ -1,4 +1,4 @@
 # vanessa
-abcdefghijklmnoprstuvwzxy
-1234567890
-vanessa vale kostadinova
+abcdefghiklmnoprstuvz
+0987654321
+vanessa vale kosta
